@@ -2,7 +2,7 @@
 final operating systems class coding assignment
 
 classes:
--main: driver class /n
+-main: driver class 
 -clock: used to simulate time, for synchronization
 -page: memory object, holds string ID and value
 -outputtofile: writes given string to file
